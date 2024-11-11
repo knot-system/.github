@@ -24,26 +24,26 @@ This is a small installer, that bundles all other modules together, so you can i
 
 This is used to configure and update all the other modules. You could also update all other modules manually, and use the *config.php* files to configure them, but this makes it a bit more comfortable.
 
-![Screenshot of the Knot Control Interface](profile/screenshots/knot-control.jpg)
+![Screenshot of the Knot Control Interface](screenshots/knot-control.jpg)
 
 ## [Knot Site](https://github.com/knot-system/knot-site)
 
 A micropub server and small website system. This can be your own website. All content can be created via textfiles in folders, or by using a micropub client (like *Knot Home*).
 
-![Screenshot of the Knot Site](profile/screenshots/knot-site.jpg)
+![Screenshot of the Knot Site](screenshots/knot-site.jpg)
 
 ## [Knot Home](https://github.com/knot-system/knot-home)
 
 A microsub and micropub client. You can connect it to your Knot Site and Knot Daemon modules It allows you to make new posts to your micropub server (Knot Site) and read all the posts from feeds you follow (Knot Daemon).
 
-![Screenshot of the Knot Home Read Interface](profile/screenshots/knot-home-read.jpg)
-![Screenshot of the Knot Home Write Interface](profile/screenshots/knot-home-write.jpg)
+![Screenshot of the Knot Home Read Interface](screenshots/knot-home-read.jpg)
+![Screenshot of the Knot Home Write Interface](screenshots/knot-home-write.jpg)
 
 ## [Knot Auth](https://github.com/knot-system/knot-auth)
 
 A IndieAuth server, that handles authentication and token verification; it is used when you log in into Knot Home or Knot Control and verifies your authentication, when you post to Knot Site or retrieve posts from Knot Daemon.
 
-![Screenshot of the Knot Auth login screen](profile/screenshots/knot-auth.jpg)
+![Screenshot of the Knot Auth login screen](screenshots/knot-auth.jpg)
 
 ## [Knot Daemon](https://github.com/knot-system/knot-daemon)
 
