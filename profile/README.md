@@ -18,7 +18,7 @@ The modules are the following:
 
 This is a small installer, that bundles all other modules together, so you can install and configure them in one go. Use this, if you want to install everything.
 
-![Screenshot of the Knot Installer](profile/screenshots/knot-installer.jpg)
+![Screenshot of the Knot Installer](screenshots/knot-installer.jpg)
 
 ## [Knot Control](https://github.com/knot-system/knot-control)
 
